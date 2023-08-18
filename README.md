@@ -32,12 +32,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/vivianb11/vivianb11/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/vivianb11/count.svg?"  />
 </div>
