@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://vivianb11.github.io/Vivian/Assets/Icons/Logo-Site.png"  />
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
